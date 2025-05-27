@@ -9,7 +9,7 @@
 
 body{
     min-height: 100vh;
-    background-color: rgb(7, 7, 63);
+    background-color: rgb(132, 200, 212);
     display: grid;
     place-items: center;
 }
@@ -30,7 +30,7 @@ body{
 /*BPANTALLA*/
 .pantalla{
     grid-column: 1 / -1 ;
-    background-color: #023d0fe1;
+    background-color: #12af34e1;
     color: black;
     padding: 1.5rem;
     font-size: 2rem;
